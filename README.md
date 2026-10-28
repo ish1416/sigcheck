@@ -55,3 +55,7 @@ client.
 MIT. See [LICENSE](LICENSE).
 
 Built by [Ishita Singh](https://github.com/ish1416).
+
+## Learn it
+
+New to this codebase? [GUIDE.md](GUIDE.md) explains it in plain English, from the idea to the tests.
